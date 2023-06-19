@@ -2,7 +2,7 @@ pageextension 50904 PurchaseOrderExt extends "Purchase Order"
 {
     layout
     {
-        // Add changes to page layout here
+        // Add changes to page layout here//
     }
 
     actions
