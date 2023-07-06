@@ -2,7 +2,7 @@
   "id": "d4b2bd4d-587c-4479-bc1a-c2b4c930ddbe",
   "name": "Authorized_Post",
   "publisher": "Pacific",
-  "version": "1.0.0.2",
+  "version": "1.0.0.8",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -62,9 +62,9 @@
     },
     {
       "id": "4ba22a4e-fc4f-4f0b-9a57-5874849a493e",
-      "name": "Kohinoor_Retail",
-      "publisher": "Pacific",
-      "version": "1.0.0.144"
+  "name": "Kohinoor_Retail",
+  "publisher": "Pacific",
+  "version": "1.0.0.213"
     }
   ],
   "screenshots": [],
