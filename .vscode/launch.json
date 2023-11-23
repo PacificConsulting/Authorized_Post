@@ -6,15 +6,15 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "KohinoorSandbox",
-            "tenant": "abc87ed0-4014-486f-afd8-1577c92442a6",
-            "startupObjectId": 9305,
+            "environmentName": "SeamecSandbox",
+            "tenant": "a9f3ea0c-8063-42f9-891d-8d81b667b2d0",
+            "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "schemaUpdateMode": "ForceSync",
+            "schemaUpdateMode": "ForceSync"
         }
     ]
 }

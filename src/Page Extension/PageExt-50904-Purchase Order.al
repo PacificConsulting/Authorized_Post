@@ -1,4 +1,4 @@
-pageextension 50904 PurchaseOrderExt extends "Purchase Order"
+/* pageextension 50904 PurchaseOrderExt extends "Purchase Order"
 {
     layout
     {
@@ -43,4 +43,4 @@ pageextension 50904 PurchaseOrderExt extends "Purchase Order"
         Posted_User: Code[20];
         CurrentPassword: Text[20];
         Posted_Name: Text[30];
-}
+} */

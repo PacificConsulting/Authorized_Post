@@ -2,7 +2,7 @@ pageextension 50902 "General ledger Setup" extends "General Ledger Setup"
 {
     layout
     {
-        addafter("Exchange Batch")
+        addafter("Bank Account Nos.")
         {
 
             field("Password Posting"; Rec."Password Posting")
